@@ -1,6 +1,6 @@
-# **"Water Well Condition Classification Project"**
+# **Water Well Condition Classification Project**
 
-# 🌊 Water Well Condition Analysis
+## 🌊 Water Well Condition Analysis
 
 ## 📌 Overview
 Access to clean water is essential, yet many water wells are either non-functional or require maintenance, leading to challenges in resource allocation and management. This project leverages machine learning to classify the conditions of water wells, helping prioritize repairs and optimize resource usage.
