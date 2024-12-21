@@ -1,4 +1,4 @@
-# **Water Well Condition Classification Project**
+# **Tanzania Water Well Condition Classification Project**
 
 ## 🌊 Water Well Condition Analysis
 
