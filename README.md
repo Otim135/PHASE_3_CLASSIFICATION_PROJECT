@@ -57,13 +57,16 @@ The dataset consists of information about 59,400 wells and includes 40 features 
 
 ### **Visualizations:**
 - **Pie Chart:** Distribution of well conditions.
+
      ![alt text](image-1.png)
      
 
 - **Scatter Plot:** `gps_height` vs. `status_group`.
+
     ![alt text](image-2.png) 
 
 - **Histogram:** Distribution of `construction_year` with well conditions overlaid.
+
     ![alt text](image-3.png)
 ---
 
